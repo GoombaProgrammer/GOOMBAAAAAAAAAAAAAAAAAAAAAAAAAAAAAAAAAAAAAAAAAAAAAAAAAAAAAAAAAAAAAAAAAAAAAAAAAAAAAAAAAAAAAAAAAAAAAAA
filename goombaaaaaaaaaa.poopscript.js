@@ -1,0 +1,3 @@
+new PoopScriptEnv(PoopScriptEnv.removalTemplates.simpleUsage).exec(`
+    ->log goombaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa;
+`);
