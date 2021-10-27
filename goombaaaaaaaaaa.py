@@ -1,3 +1,3 @@
 print("GOOMB")
-while true:
+while True:
     print("A")
