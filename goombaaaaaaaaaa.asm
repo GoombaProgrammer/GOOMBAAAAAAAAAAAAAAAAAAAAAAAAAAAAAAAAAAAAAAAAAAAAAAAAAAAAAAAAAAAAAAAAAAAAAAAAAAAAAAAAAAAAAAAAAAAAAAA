@@ -7,8 +7,8 @@ start:
 mov dx, goomba
 mov ah, 9
 int 21h
-loop:
+looper:
   mov al, 'A'
   mov ah, 0x0E
   int 10h
-  jmp loop
+  jmp looper
